@@ -1,1 +1,2 @@
 # SmartGuard--Predictive-maintenance-model
+Predictive maintenance is a data-driven approach that involves continuously monitoring equipment health to predict potential failures. This proactive strategy aims to optimize maintenance schedules, reduce downtime, and extend equipment lifespan. By leveraging machine learning, we can build models to predict the probability of device failure based on sensor data.
